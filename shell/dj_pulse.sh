@@ -1,3 +1,7 @@
+# nano dj_pulse.sh
+
+# Artificial DJ Pulse Pattern
+
 #!/bin/bash
 echo "DJ Music Pulsing is active... Press Ctrl+C to stop."
 
