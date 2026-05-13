@@ -1,18 +1,18 @@
 pkg install termux-api
 
-# nano dj.sh
+# nano shell/dj.sh
 
 chmod +x shell/dj.sh
 ./shell/dj.sh
 
-# nano pulse.sh
+# nano shell/pulse.sh
 chmod +x shell/pulse.sh
 ./shell/pulse.sh
 
 pkg install termux-api tool-types -y
 
 
-# nano sound_dj.sh
+# nano shell/sound_dj.sh
 
 
 chmod +x shell/sound_dj.sh
